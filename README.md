@@ -1,5 +1,6 @@
-# vue3demo
-
+# SolarSystem
+## node version
+16.15.0  npm 8.5.5
 ## Project setup
 ```
 npm install
